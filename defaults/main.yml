@@ -1,0 +1,7 @@
+---
+# defaults file for nginx
+nginx_user: root
+nginx_group: root
+nginx_conf_file: ""
+nginx_sites_available_files: []
+nginx_sites_enabled: []
